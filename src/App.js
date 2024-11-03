@@ -61,7 +61,7 @@ const App = () => {
     { id: 4, action: "Processed sale", item: "Monitor", user: "Mehfuz", timestamp: "2024-10-27 14:00" },
   ];
 
-  // Example placeholders for notifications
+  // Example placeholders for notification
   const notifications = [];
   const showNotifications = false; // Replace with your actual state
   const toggleNotifications = () => {}; // Replace with your actual function
